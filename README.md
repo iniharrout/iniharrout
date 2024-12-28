@@ -1,9 +1,55 @@
-- 👋 Hi 👋 I’m Nihar
-- 👀 Product Manager
-✨ My background includes corporate and freelance experience in the tech industry, with a history of Web and Mobile Application Development. I have worked on multiple projects across different business domains ranging from startups to large scale businesses. I’ve worked in the software industry for years with a combination of well-reputed local and international businesses.
+# Welcome to My GitHub! 👨‍💻🚀
 
-Technology excites me like magic. Creating a user-centric digital experience is always what I wished to create, to get the user attracted, engaged, and then diverted towards the business. The initiation of my fascinating professional career in web and app development always had the goal to turn the ideas into real-life solutions. I have always been full of enthusiasm and technology gives life to the enthusiastic me!
-<!---
-iniharrout/iniharrout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! 👋 I'm Nihar, CEO of **Creuto**, where we craft impactful, scalable software solutions to drive business growth. Here's a little about me and what you can expect from this space:
+
+## About Me 🌟
+
+💼 **CEO & Product Engineer**: With extensive experience in product engineering, enterprise app development, custom ERP systems, SaaS platforms, and digital commerce, I specialize in transforming ideas into high-quality digital products.
+
+🤝 **Collaborator**: Over the years, I’ve partnered with startups, SMEs, and large enterprises across diverse industries, delivering tailored solutions to streamline operations, boost efficiency, and scale effortlessly.
+
+🎯 **Mission**: At Creuto, our focus is on innovation, quality, and delivering value. Our approach emphasizes close collaboration with clients to exceed expectations in functionality and user experience.
+
+## What I Do 🛠️✨
+
+- **Custom ERP Systems** 🖥️
+- **Enterprise Application Development** 🏢
+- **SaaS Platforms** ☁️
+- **Digital Commerce Solutions** 🛒
+- **Scalable Software Products** 📈
+
+## Let's Innovate Together 🤝
+
+If you're looking for a technology partner to bring your vision to life, I'd love to connect and discuss how Creuto can support your business goals. Feel free to reach out or explore my repositories to see the amazing work we're doing.
+
+💬 **Let's Talk**: [LinkedIn](https://www.linkedin.com/in/niharrout/) | [Email](mailto:ceo@creuto.com)  
+🌐 **Website**: [Creuto](https://creuto.com)
+
+---
+
+### Technologies & Tools 🛠️
+
+Here are some of the tools and technologies I excel in:
+
+- **Programming Languages**: JavaScript, Python, Java, PHP, Node JS
+- **Frameworks**: React, Angular, Node.js, Laravel, Django
+- **Cloud Platforms**: AWS, Azure, Google Cloud
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Development Tools**: Docker, Kubernetes, Git, CI/CD Pipelines
+
+---
+
+### Fun Facts 🎉
+
+🌟 My solutions have impacted businesses globally, enabling seamless operations and significant growth.  
+🌟 I'm passionate about making technology simple, accessible, and impactful.  
+🌟 Innovation and collaboration drive everything I do.
+
+---
+
+⭐ **Check out my repositories** to see my latest projects and contributions to the tech community.  
+📈 **Follow me** for updates, tips, and insights on software development and digital transformation.
+
+---
+
+Thanks for stopping by! Let’s create something amazing together. 🚀
